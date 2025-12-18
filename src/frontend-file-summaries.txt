@@ -1,6 +1,6 @@
 {
   "frontend/src/App.tsx": "Main application component that wraps the app with ThemeProvider and renders the HomePage component with toast notifications support.",
-  "frontend/src/pages/HomePage.tsx": "Single page component that displays \"Monday Maverick\" centered on screen with a gradient accent line and footer attribution.",
+  "frontend/src/pages/HomePage.tsx": "Single page component that displays \"Monday Mayday\" centered on screen with a gradient accent line and footer attribution.",
   "frontend/src/index.css": "Global styles with Monday Blues themed OKLCH color system featuring calming blue tones for both light and dark modes, plus fade-in animation.",
   "frontend/tailwind.config.js": "Tailwind configuration with extended color tokens mapped to the Monday Blues design system.",
   "frontend/src/hooks/useQueries.ts": "Empty placeholder file as no backend queries are needed for this static display application."

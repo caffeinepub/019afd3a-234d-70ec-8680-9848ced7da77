@@ -1,13 +1,13 @@
 # Monday
 
 ## Overview
-A minimalist web application that displays a simple "Monday Maverick" message with clean, centered styling.
+A minimalist web application that displays a simple "Monday Mayday" message with clean, centered styling.
 
 ## Application Title
 Monday Blues
 
 ## Core Functionality
-- Display the text "Monday Maverick" centered on the screen
+- Display the text "Monday Mayday" centered on the screen
 - Apply basic styling for clear visibility and aesthetic balance
 - Use English as the content language
 

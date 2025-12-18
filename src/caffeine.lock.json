@@ -4,7 +4,7 @@
     "build_template": "1.0.0"
   },
   "components": {},
-  "aiCoreVersion": "0.11.0",
+  "aiCoreVersion": "0.11.2",
   "motokoVersion": "1.0.0-beta",
   "coreLibVersion": "implicits-20"
 }

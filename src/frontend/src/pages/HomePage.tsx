@@ -7,7 +7,7 @@ export default function HomePage() {
             <main className="flex-1 flex items-center justify-center px-4">
                 <div className="text-center space-y-8 animate-fade-in">
                     <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tight text-primary">
-                        Monday Maverick
+                        Monday Mayday
                     </h1>
                     <div className="h-1 w-32 mx-auto bg-gradient-to-r from-primary via-accent to-primary rounded-full" />
                 </div>
